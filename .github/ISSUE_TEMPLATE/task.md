@@ -6,5 +6,3 @@ labels: ''
 assignees: leouieda
 
 ---
-
-**Due date**:
