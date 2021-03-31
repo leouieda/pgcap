@@ -1,5 +1,12 @@
 - file: index
-- file: patch1
-- file: patch3
-- file: glossary
-- file: credit
+
+- part: Porfolio
+  chapters:
+  - file: patch1
+  - file: patch3
+
+- part: Reference
+  chapters:
+  - file: ukpsf
+  - file: glossary
+  - file: credit

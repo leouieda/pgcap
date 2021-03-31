@@ -146,20 +146,20 @@ targeted way.
 
 ## Reflection
 
-My self-evaluation showed appropriate level to meet the D2 for all dimensions
-except for A5, K5, V1, V2, and V4. Through my past experience, I have also
-identified room for improvement in teaching assessment (A3 and K5), quality
-assurance / moderation (K6), accessibility (V1), and the wider context of
-higher education in the UK (V4), which were the key things I hoped to acquire
-from PGCAP. I see now the need to increase my participation in CPD activities
-offered by the University and other professional bodies as a way to improve on
-these dimensions and meet descriptors I, II, and VI. I will search for new ways
-to promote wider participation, including engaging with outreach activities
-developed by my department, as a way to meet descriptor III. Another action
-point is to search and read more of the pedagogical literature for my
-particular field to support my current teaching practices or provide insights
-for improvements that can be implemented within the tight time constraints
-(meeting description V).
+My self-evaluation showed appropriate level to meet the [D2](d2) for all
+dimensions except for {term}`A5`, K5, V1, V2, and V4. Through my past
+experience, I have also identified room for improvement in teaching assessment
+(A3 and K5), quality assurance / moderation (K6), accessibility (V1), and the
+wider context of higher education in the UK (V4), which were the key things I
+hoped to acquire from PGCAP. I see now the need to increase my participation in
+CPD activities offered by the University and other professional bodies as a way
+to improve on these dimensions and meet descriptors I, II, and VI. I will
+search for new ways to promote wider participation, including engaging with
+outreach activities developed by my department, as a way to meet descriptor
+III. Another action point is to search and read more of the pedagogical
+literature for my particular field to support my current teaching practices or
+provide insights for improvements that can be implemented within the tight time
+constraints (meeting description V).
 
 ## Literature
 
