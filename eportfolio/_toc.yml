@@ -2,6 +2,7 @@
 
 - part: Porfolio
   chapters:
+  - file: introduction
   - file: patch1
   - file: patch3
 
@@ -9,4 +10,5 @@
   chapters:
   - file: ukpsf
   - file: glossary
+  - file: bibliography
   - file: credit

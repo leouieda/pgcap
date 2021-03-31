@@ -6,6 +6,8 @@ exclude_patterns: [_build, "**.ipynb_checkpoints"]
 only_build_toc_files: true
 execute:
   execute_notebooks: "auto"
+bibtex_bibfiles:
+   - references.bib
 repository:
   url: https://github.com/leouieda/pgcap
   path_to_book: eportfolio

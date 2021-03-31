@@ -8,9 +8,6 @@ further information.
     The UK Professional Standards Framework, "a globally-recognised framework
     for benchmarking success within HE teaching and learning support".
 
-PSF Areas of Activity
-    
-
 [Software Carpentry](https://software-carpentry.org)
     Non-profit organization "teaching basic lab skills for research computing".
 ```

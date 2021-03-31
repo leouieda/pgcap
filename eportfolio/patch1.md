@@ -169,12 +169,11 @@ practices.
 Have read:
 
 * {term}`Software Carpentry` instructor [training manual](https://carpentries.github.io/instructor-training/)
-* "How learning works" by Ambrose et al.
-* "Teaching and Learning with Jupyter" by Barba et al.
+* "How learning works" {cite}`ambrose2010learning`
+* ["Teaching and Learning with Jupyter" by Barba et al.](https://jupyter4edu.github.io/jupyter-edu-book/)
 
 Will read:
 
-* "Building a better teacher" by Elizabeth Green
-* Re-read "How learning works"
+* "Building a better teacher" {cite}`green2014building`
 * "Experiences With Efficient Methodologies for Teaching Computer Programming
-  to Geoscientists" (Jacobs et al., 2015)
+  to Geoscientists" {cite}`jacobs2016experiences`
