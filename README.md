@@ -1,5 +1,4 @@
-# pgcap
-Notes, TODO list, and assignments for the PGCAP course at Liverpool
+# PGCAP
 
-
-**Mention learning theories (humanism, etc) in assessments!**
+Notes, TODO list, and assignments for the PGCAP course at Liverpool. 
+Hosts and builds my ePortfolio as well.
