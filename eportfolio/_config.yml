@@ -1,0 +1,17 @@
+title: "Patchwork ePortfolio"
+author: "Leonardo Uieda"
+copyright: "2021"
+logo: images/logo.svg
+execute:
+  execute_notebooks: "auto"
+repository:
+  url: https://github.com/leouieda/pgcap
+  path_to_book: eportfolio
+  branch: main
+html:
+  favicon: images/favicon.png
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
+exclude_patterns: [_build, "**.ipynb_checkpoints"]
+only_build_toc_files: true
