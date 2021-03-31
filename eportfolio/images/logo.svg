@@ -26,6 +26,15 @@
          result="blur"
          id="feGaussianBlur979" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter930">
+      <feGaussianBlur
+         stdDeviation="0.3 0.3"
+         result="blur"
+         id="feGaussianBlur928" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -35,8 +44,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.5106117"
-     inkscape:cx="206.22539"
-     inkscape:cy="81.450661"
+     inkscape:cx="180.74714"
+     inkscape:cy="113.85443"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -81,33 +90,75 @@
        id="rect901"
        width="101.6"
        height="36.660667"
-       x="25.030838"
-       y="79.251587" />
+       x="41.295544"
+       y="35.645107" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.40726px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:discretionary-ligatures;word-spacing:0px;stroke-width:0.352772"
+       x="67.367371"
+       y="76.827232"
+       id="text881"><tspan
+         sodipodi:role="line"
+         id="tspan879"
+         x="67.367371"
+         y="76.827232"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#ffffff;stroke-width:0.352772" /></text>
     <g
-       id="g987"
-       transform="translate(0.64369341,7.0733605)">
-      <text
-         xml:space="preserve"
-         style="font-size:9.40726px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:discretionary-ligatures;word-spacing:0px;fill:#000000;stroke-width:0.352772;filter:url(#filter981)"
-         x="45.116478"
-         y="50.344723"
-         id="text881-2"><tspan
-           sodipodi:role="line"
-           id="tspan879-0"
-           x="45.116478"
-           y="50.344723"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#000000;stroke-width:0.352772">Patchwork ePortfolio</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:9.40726px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:discretionary-ligatures;word-spacing:0px;stroke-width:0.352772"
-         x="44.701839"
-         y="49.663666"
-         id="text881"><tspan
-           sodipodi:role="line"
-           id="tspan879"
-           x="44.701839"
-           y="49.663666"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#ffffff;stroke-width:0.352772">Patchwork ePortfolio</tspan></text>
+       id="g944"
+       transform="matrix(0.86246322,0,0,0.86246322,28.966314,-18.091807)">
+      <g
+         id="g890-6"
+         transform="translate(-16.608774,29.083386)"
+         style="fill:#000000;filter:url(#filter930)">
+        <text
+           xml:space="preserve"
+           style="font-size:20.5807px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:discretionary-ligatures;word-spacing:0px;fill:#000000;stroke-width:0.771777"
+           x="46.957466"
+           y="68.341057"
+           id="text881-9-0"><tspan
+             sodipodi:role="line"
+             id="tspan879-4-4"
+             x="46.957466"
+             y="68.341057"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#000000;stroke-width:0.771777">Portfolio</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:9.40726px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:discretionary-ligatures;word-spacing:0px;fill:#000000;stroke-width:0.352772"
+           x="47.873604"
+           y="47.555466"
+           id="text881-3-9"><tspan
+             sodipodi:role="line"
+             id="tspan879-7-1"
+             x="47.873604"
+             y="47.555466"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#000000;stroke-width:0.352772">PGCAP: Patchwork</tspan></text>
+      </g>
+      <g
+         id="g890"
+         transform="translate(-16.86406,28.693588)">
+        <text
+           xml:space="preserve"
+           style="font-size:20.5807px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:discretionary-ligatures;word-spacing:0px;stroke-width:0.771777"
+           x="46.957466"
+           y="68.341057"
+           id="text881-9"><tspan
+             sodipodi:role="line"
+             id="tspan879-4"
+             x="46.957466"
+             y="68.341057"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#ffffff;stroke-width:0.771777">Portfolio</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:9.40726px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:discretionary-ligatures;word-spacing:0px;stroke-width:0.352772"
+           x="47.873604"
+           y="47.555466"
+           id="text881-3"><tspan
+             sodipodi:role="line"
+             id="tspan879-7"
+             x="47.873604"
+             y="47.555466"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#ffffff;stroke-width:0.352772">PGCAP: Patchwork</tspan></text>
+      </g>
     </g>
   </g>
 </svg>

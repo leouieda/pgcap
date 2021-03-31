@@ -1,7 +1,9 @@
-title: "Patchwork ePortfolio"
-author: "Leonardo Uieda"
+title: ""
+author: '<a href="https://www.leouieda.com">Leonardo Uieda</a>'
 copyright: "2021"
 logo: images/logo.svg
+exclude_patterns: [_build, "**.ipynb_checkpoints"]
+only_build_toc_files: true
 execute:
   execute_notebooks: "auto"
 repository:
@@ -13,5 +15,9 @@ html:
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: true
-exclude_patterns: [_build, "**.ipynb_checkpoints"]
-only_build_toc_files: true
+  extra_navbar: ""
+  extra_footer: |
+    <p>
+    Powered by <a href="https://jupyterbook.org">Jupyter Book</a>.
+    Source code on GitHub: <a href="https://github.com/leouieda/pgcap">leouieda/pgcap</a>
+    </p>
