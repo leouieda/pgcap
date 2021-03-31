@@ -1,4 +1,4 @@
-# Image credit
+# Credit
 
 Images used on this portfolio are either public domain or openly licensed.
 

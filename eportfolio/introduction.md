@@ -1,3 +1,7 @@
 # Introduction
 
-TBD. A bit about myself, my background, etc.
+```{warning}
+TBD
+```
+
+A bit about myself, my background, etc.
