@@ -5,7 +5,11 @@ from livereload import Server, shell
 
 
 server = Server()
-files = ["eportfolio/**/*"]
+files = [
+    "eportfolio/*.md",
+    "eportfolio/*.yml",
+    "eportfolio/images/*",
+]
 for filename in files:
     server.watch(filename, "make build")
 server.serve(root="eportfolio/_build/html", port="8008", host="localhost", open_url_delay=1)
