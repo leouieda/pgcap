@@ -1,20 +1,20 @@
 format: jb-book
 root: index
 parts:
-- caption: Porfolio
-  chapters:
-  - file: introduction
-  - file: patch1
-  - file: patch2
-  - file: patch3
-  - file: patch4
-  - file: patch5
-  - file: patch6
-  - file: patch7
-  - file: conclusion
-- caption: Reference
-  chapters:
-  - file: ukpsf
-  - file: glossary
-  - file: bibliography
-  - file: credit
+  - caption: Porfolio
+    chapters:
+    - file: introduction
+    - file: patch1
+    - file: patch2
+    - file: patch3
+    - file: patch4
+    - file: patch5
+    - file: patch6
+    - file: patch7
+    - file: conclusion
+  - caption: Reference
+    chapters:
+    - file: ukpsf
+    - file: glossary
+    - file: bibliography
+    - file: credit
