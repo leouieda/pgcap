@@ -1,5 +1,10 @@
 # Patch 4: Pivotal Learning Moment II
 
+> This patch is a reflection on a pivotal learning moment in my teaching
+> practice. It describes to my first exposure to pedagogic theory, how it
+> shaped my way of teaching, and relates to [dimensions A1-5](ukpsf_dimensions)
+> of the {term}`UKPSF`.
+
 When I first started teaching in 2014, I was thrown into a classroom with no
 preparation or formal training in pedagogy.
 I had to simultaneously teach myself how to teach as well as the
@@ -55,6 +60,10 @@ questions for the instructors.
 This technique is difficult to replicate on an in person session and provides
 students with a valuable reference and awareness of each other's thoughts in an
 anonymous medium.
+Having students collaboratively write the answers to questions and group
+assignments in the shared document allows me to go over their responses and
+comment on each to highlight positive aspects and provide feedback on ways to
+improve (A3).
 
 Having this prior experience with a very effective online delivery meant that I
 was well prepared for the shift online caused by the COVID-19 pandemic.
