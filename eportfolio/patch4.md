@@ -2,8 +2,8 @@
 
 > This patch is a reflection on a pivotal learning moment in my teaching
 > practice. It describes to my first exposure to pedagogic theory, how it
-> shaped my way of teaching, and relates to [dimensions A1-5](ukpsf) of the
-> {term}`UKPSF`.
+> shaped my way of teaching, and relates to [dimensions A1-5](ukpsf_dimensions)
+> of the {term}`UKPSF`.
 
 When I first started teaching in 2014, I was thrown into a classroom with no
 preparation or formal training in pedagogy.
