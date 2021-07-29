@@ -7,5 +7,7 @@ The following are my assessment submissions, reflections, and notes.
 I also include a list of relevant references that I have found useful for my
 teaching (mainly geosciences and computer programming).
 
+## Contents
+
 ```{tableofcontents}
 ```
