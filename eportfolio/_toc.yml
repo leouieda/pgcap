@@ -1,6 +1,7 @@
-- file: index
-
-- part: Porfolio
+format: jb-book
+root: index
+parts:
+- caption: Porfolio
   chapters:
   - file: introduction
   - file: patch1
@@ -11,8 +12,7 @@
   - file: patch6
   - file: patch7
   - file: conclusion
-
-- part: Reference
+- caption: Reference
   chapters:
   - file: ukpsf
   - file: glossary
