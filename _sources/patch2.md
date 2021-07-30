@@ -1,4 +1,4 @@
-# Patch 2: Digital Storytelling (My Teaching Philosophy)
+# Patch 2: My Teaching Philosophy
 
 > This is a video about my teaching philosophy, how I view my role in higher
 > education, my principles and goals for students.
@@ -55,15 +55,14 @@ require to build up their confidence, master key skills, and grow in
 independence.
 
 A significant part of my efforts go into maintaining a positive and stimulating
-learning environment.
+learning environment,
+which has a significant impact on students' motivation to learn.
 
-The learning environment can have a significant impact on students' motivation
-to learn.
+My goal is to empower students by giving them agency over their learning.
 
-I aim to empower students by giving them agency over their learning.
-
-Students have the opportunity to go over material at their own pace,
-either independently or with guided instruction.
+For example, I offer a variety of recorded, written, and practical material so
+that students are able to go over it at their own pace, either independently or
+with guided instruction during a live session.
 
 I provide extra challenges and necessary scaffolding to account for variations
 in students prior knowledge
@@ -96,10 +95,11 @@ and notes.
 When open-access resources do exist, they tend to be highly specific to
 particular modules, lessening their potential for reuse.
 
-There if often no easy way for others to submit improvements to the material.
+There is often also no easy way for others to submit improvements to the
+material.
 
-This is a field where higher education can learn a lot from the open-source
-software community.
+In this, higher education has much to learn from the open-source software
+community.
 
 In open-source, we work collaboratively to develop software that fulfils the
 needs of the community.
@@ -107,7 +107,8 @@ needs of the community.
 We encourage others to contribute changes and join our development teams
 instead reinventing the wheel.
 
-We develop tools like version control systems that enable collaboration.
+We develop tools like version control systems that enable collaboration on our
+projects.
 
 Ultimately, I plan to update and rework my current teaching materials to make
 them more suitable for collaborative development.
