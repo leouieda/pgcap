@@ -3,40 +3,27 @@
 > This is a video about my teaching philosophy, how I view my role in higher
 > education, my principles and goals for students.
 
-Think about who I am:
+<div class="embed-responsive embed-responsive-16by9">
+<iframe
+    width="560"
+    height="315"
+    src="https://www.youtube-nocookie.com/embed/ABYEIuvXqy4"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
+</div>
 
-* Current job
-* Previous jobs
-* Qualifications
-* Research
-
-Self-reflection on values and beliefs. Very personal.
-Provide examples of what I do.
-Incorporates my vision as educator.
-Put references.
-Goals for future development.
-
-Think about my own learner experience
-Best experience as a teacher
-Why do I teach? Why does it matter.
-What am I trying to achieve with my teaching
-Method and strategies. Why do I do them? Is it for students or myself?
-Cite papers.
-How important is feedback?
-How do I collect it?
-What have I learned from peer feedback?
-
-Use first person
-Be specific with examples
-Link to subject
-What is student/teacher relationship
-Goals for my students?
-
-3-5 minutes.
-Aim for 500-600 words (assuming 100 words/min).
+```{note}
+The music I used in the video is licensed CC-BY and was downloaded from
+[Freesound](https://freesound.org/people/Lemoncreme/sounds/203099/), which
+is a great resource.
+```
 
 ---
 
+## Script
 
 One of the most important things I gained from my Bachelor's degree was
 learning how to teach myself.
@@ -114,6 +101,7 @@ Ultimately, I plan to update and rework my current teaching materials to make
 them more suitable for collaborative development.
 
 I hope to implement several of the research-based techniques outlined in
+Devenyi et al. (2018)
 {cite}`devenyi2018colablesson`.
 
 This will be a significant effort but I strongly believe that it is well worth
