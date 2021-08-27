@@ -1,7 +1,6 @@
 # Patch 1: Self-evaluation and reflection
 
 ```{note}
-Submitted on 2020/12/31.
 This is a reflection on my current knowledge and skills in teaching, as well as
 my plans for future development.
 ```
