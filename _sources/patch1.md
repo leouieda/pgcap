@@ -1,4 +1,4 @@
-# Patch 1: Self-evaluation and reflection
+# Self-evaluation and reflection
 
 ```{note}
 This is a reflection on my current knowledge and skills in teaching, as well as
