@@ -1,4 +1,4 @@
-# Patch 2: My Teaching Philosophy
+# My teaching philosophy
 
 > This is a video about my teaching philosophy, how I view my role in higher
 > education, my principles and goals for students.

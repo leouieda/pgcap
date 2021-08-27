@@ -1,4 +1,4 @@
-# Patch 3: Pivotal Learning Moment I
+# Pivotal learning moment: Authentic assessments
 
 > This patch is a reflection on a pivotal learning moment in my teaching
 > practice. It describes my struggles with assessment, both as a student and as

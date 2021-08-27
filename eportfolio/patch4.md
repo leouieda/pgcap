@@ -1,4 +1,4 @@
-# Patch 4: Pivotal Learning Moment II
+# Pivotal learning moment: Pedagogic theory
 
 > This patch is a reflection on a pivotal learning moment in my teaching
 > practice. It describes my first exposure to pedagogic theory, how it shaped

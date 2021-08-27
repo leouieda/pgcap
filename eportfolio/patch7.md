@@ -1,4 +1,4 @@
-# Patch 7: Professional Discussion
+# Professional discussion
 
 ```{note}
 These are my notes on some of the discussion topics provided. I thought it
