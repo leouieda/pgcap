@@ -1,3 +1,4 @@
+(pivotal_assessment)=
 # Pivotal learning moment: Authentic assessments
 
 > This patch is a reflection on a pivotal learning moment in my teaching
