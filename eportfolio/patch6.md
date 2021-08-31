@@ -7,12 +7,12 @@
 
 So far in my career as a lecturer I have gained practical experience designing
 and delivering a range of subjects using a variety of formats
-(lectures, videos, lab-based, computer-based, field).
+(lectures, videos, lab-based, computer-based, field) [A1,A2,K1,K2,K4].
 My journey through the teaching and learning literature, however, is relatively
 recent.
 Throughout this course, I have had the chance to read about current
 methodologies and best practices related to my discipline and how these are
-backed by pedagogical theory.
+backed by pedagogical theory [V3,K3,K2,A5].
 My teaching currently reflects some of these practices to varying degrees.
 Particular areas of improvement where I see gap between what I should be doing
 and what I have implemented so far are:
@@ -24,13 +24,13 @@ more widely used throughout synchronous and asynchronous delivery. An example
 would be asynchronous student-led discussion on a forum about a topic covered
 in a recorded lecture. For synchronous delivery, I need to allocate more time
 for these activities, as was identified during my {ref}`teaching observations
-<observations>`.
+<observations>` [A4,K3,K6,V3].
 
 **More frequent use of formative assessments**
 {cite}`wilson2019effectivelesson`: Ideally, each lessons should be designed
 from the start around a well-designed set of formative assessments. Currently,
 my use of quizzes and quick forms of feedback is sporadic and not as structured
-as I would like.
+as I would like [V3,K5,K3,K2].
 
 These are my {term}`SMART action plan`s for continuing to improve on these
 aspects and develop my skills as an instructor.
@@ -68,4 +68,4 @@ assessments. To aid in their development, I will look to the literature for
 inspiration and evidence-based techniques (e.g. {cite}`rice2017lecturebreaks`
 and {cite}`major2015teaching101`). I also hope to rely on my colleagues for
 feedback and support through the peer-observation program that is run by the
-School of Environmental Sciences.
+School of Environmental Sciences [K5,K6,K2,V3,A5].
