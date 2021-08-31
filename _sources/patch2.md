@@ -1,3 +1,4 @@
+(teaching_philosophy)=
 # My teaching philosophy
 
 > This is a video about my teaching philosophy, how I view my role in higher
