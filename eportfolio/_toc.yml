@@ -12,6 +12,9 @@ parts:
     - file: patch6
     - file: patch7
     - file: conclusion
+  - caption: Research project
+    chapters:
+    - file: vlog
   - caption: Reference
     chapters:
     - file: ukpsf
