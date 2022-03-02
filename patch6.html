@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Continuing professional development</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet" />
-  <link href="_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+  <link href="_static/css/theme.css" rel="stylesheet">
+  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -22,8 +22,8 @@
       
 
     
-    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="_static/sphinx-book-theme.e8f53015daec13862f6db5e763c41738.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
@@ -31,23 +31,25 @@
     <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.1c5a1a01449ed65a7b51.js">
+  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
 
-    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
-    <script src="_static/togglebutton.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
-    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
-    <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
-    <script >
-        const thebe_selector = ".thebe"
-        const thebe_selector_input = "pre"
-        const thebe_selector_output = ".output"
-    </script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="shortcut icon" href="_static/favicon.png"/>
     <link rel="index" title="Index" href="genindex.html" />
@@ -55,7 +57,10 @@
     <link rel="next" title="Professional discussion" href="patch7.html" />
     <link rel="prev" title="Observations of teaching and learning" href="patch5.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="en" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
     
   </head>
   <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
@@ -72,7 +77,11 @@
         <div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
-      <img src="_static/logo.svg" class="logo" alt="logo">
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="_static/logo.png" class="logo" alt="logo">
       
       
     </a>
@@ -84,13 +93,13 @@
         <ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="index.html">
-   PGCAP Patchwork ePortfolio
+   PGCAP Portfolio of Activity
   </a>
  </li>
 </ul>
-<p class="caption">
+<p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  Porfolio
+  Patchwork ePorfolio
  </span>
 </p>
 <ul class="current nav bd-sidenav">
@@ -139,8 +148,40 @@
    Conclusion
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="bibliography.html">
+   Bibliography
+  </a>
+ </li>
 </ul>
-<p class="caption">
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Research project
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="dissemination.html">
+   Project aims and strategy
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="report.html">
+   A review of peer-observation in higher education
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="reflection.html">
+   Project aims and strategy
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="rubric.html">
+   Marking rubric
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Reference
  </span>
@@ -154,11 +195,6 @@
  <li class="toctree-l1">
   <a class="reference internal" href="glossary.html">
    Glossary
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="bibliography.html">
-   Bibliography
   </a>
  </li>
  <li class="toctree-l1">
@@ -208,7 +244,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -244,7 +280,7 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
@@ -274,10 +310,43 @@
 </div>
     <div id="main-content" class="row">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Continuing professional development</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#gap-analysis">
+   Gap analysis
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#short-term-ction-items">
+   Short-term ction items
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#further-development">
+   Further development
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
               <div>
                 
-  <div class="section" id="continuing-professional-development">
+  <div class="tex2jax_ignore mathjax_ignore section" id="continuing-professional-development">
 <span id="cpd"></span><h1>Continuing professional development<a class="headerlink" href="#continuing-professional-development" title="Permalink to this headline">¶</a></h1>
 <blockquote>
 <div><p>This is a reflection on my continuing professional development. In it, I
@@ -299,7 +368,7 @@ My teaching currently reflects some of these practices to varying degrees.
 Particular areas of improvement where I see gap between what I should be doing
 and what I have implemented so far are:</p>
 <p><strong>Design lessons around peer-instruction</strong>
-<span id="id1">[<a class="reference internal" href="bibliography.html#id10">VRR+15</a>]</span>: I currently make use of some strategies
+<span id="id1">[<a class="reference internal" href="bibliography.html#id11" title="Trisha Vickrey, Kaitlyn Rosploch, Reihaneh Rahmanian, Matthew Pilarz, and Marilyne Stains. Research-based implementation of peer instruction: a literature review. CBE—Life Sciences Education, 14(1):es3, March 2015. doi:10.1187/cbe.14-11-0198.">Vickrey <em>et al.</em>, 2015</a>]</span>: I currently make use of some strategies
 during practicals (think-pair-share, etc.) but this type of activity could be
 more widely used throughout synchronous and asynchronous delivery. An example
 would be asynchronous student-led discussion on a forum about a topic covered
@@ -307,7 +376,7 @@ in a recorded lecture. For synchronous delivery, I need to allocate more time
 for these activities, as was identified during my
 <a class="reference internal" href="patch5.html#observations"><span class="std std-ref">teaching observations</span></a> [A4,K3,K6,V3].</p>
 <p><strong>More frequent use of formative assessments</strong>
-<span id="id2">[<a class="reference internal" href="bibliography.html#id7">Wil19</a>]</span>: Ideally, each lessons should be designed
+<span id="id2">[<a class="reference internal" href="bibliography.html#id8" title="Greg Wilson. Ten quick tips for creating an effective lesson. PLOS Computational Biology, 15(4):e1006915, April 2019. doi:10.1371/journal.pcbi.1006915.">Wilson, 2019</a>]</span>: Ideally, each lessons should be designed
 from the start around a well-designed set of formative assessments. Currently,
 my use of quizzes and quick forms of feedback is sporadic and not as structured
 as I would like [V3,K5,K3,K2].</p>
@@ -344,8 +413,8 @@ For semester 2 of 2021/22, my goal is to include one quiz per taught session
 years.
 This is the activity where I’m most likely to struggle.
 To aid in their development, I will look to the literature for inspiration and
-evidence-based techniques (e.g. <span id="id3">[<a class="reference internal" href="bibliography.html#id15">Ric17</a>]</span> and
-<span id="id4">[<a class="reference internal" href="bibliography.html#id16">MHZ15</a>]</span>).</p>
+evidence-based techniques (e.g. <span id="id3">[<a class="reference internal" href="bibliography.html#id16" title="Gail Taylor Rice. Hitting pause: 65 lecture breaks to refresh and reinforce learning. Stylus Publishing, LLC, 2017.">Rice, 2017</a>]</span> and
+<span id="id4">[<a class="reference internal" href="bibliography.html#id17" title="Claire Howell Major, Michael S Harris, and Todd Zakrajsek. Teaching for learning: 101 intentionally designed educational activities to put students on the path to success. Routledge, 2015.">Major <em>et al.</em>, 2015</a>]</span>).</p>
 </div>
 <div class="section" id="further-development">
 <h2>Further development<a class="headerlink" href="#further-development" title="Permalink to this headline">¶</a></h2>
@@ -379,9 +448,9 @@ School to a form of <em>lesson study</em>, a practice widely used in Japan where
 teachers come together to plan lessons, observe their outcomes, and then hold
 a post-lesson discussion.
 This practice has been found to be one of the most effective forms of teacher
-professional development <span id="id5">[<a class="reference internal" href="bibliography.html#id18">DG11</a>]</span>.
+professional development <span id="id5">[<a class="reference internal" href="bibliography.html#id19" title="Brian Doig and Susie Groves. Japanese lesson study : teacher professional development through communities of inquiry. Mathematics Teacher Education &amp; Development, 13(1):77–93, 2011. URL: https://search.informit.org/doi/10.3316/aeipt.189628.">Doig and Groves, 2011</a>]</span>.
 There will be challenges implementing this in the UK higher education setting
-<span id="id6">[<a class="reference internal" href="bibliography.html#id17">Fuj14</a>]</span>.
+<span id="id6">[<a class="reference internal" href="bibliography.html#id18" title="Toshiakira Fujii. Implementing japanese lesson study in foreign countries : misconceptions revealed. Mathematics Teacher Education &amp; Development, 16(1):65–83, 2014. URL: https://search.informit.org/doi/10.3316/aeipt.205654.">Fujii, 2014</a>]</span>.
 If a core group of interested lecturers can be found, I believe that it would
 be a worthwhile goal.
 As a starting point, it would be interesting to do a thorough review of the
@@ -412,61 +481,49 @@ ADEV701 module.</p>
 
               </div>
               
-        
             
-
-
-
-<div class='prev-next-bottom'>
-    
-    <div id="prev">
-        <a class="left-prev" href="patch5.html" title="previous page">
-            <i class="prevnext-label fas fa-angle-left"></i>
-            <div class="prevnext-info">
-                <p class="prevnext-label">previous</p>
-                <p class="prevnext-title">Observations of teaching and learning</p>
-            </div>
-        </a>
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'> 
+    <a class='left-prev' id="prev-link" href="patch5.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Observations of teaching and learning</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="patch7.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Professional discussion</p>
     </div>
-     <div id="next">
-        <a class="right-next" href="patch7.html" title="next page">
-            <div class="prevnext-info">
-                <p class="prevnext-label">next</p>
-                <p class="prevnext-title">Professional discussion</p>
-            </div>
-            <i class="prevnext-label fas fa-angle-right"></i>
-        </a>
-     </div>
-
+    <i class="fas fa-angle-right"></i>
+    </a>
 </div>
-        
+            
         </div>
     </div>
-    <footer class="footer mt-5 mt-md-0">
-    <div class="container">
-      <p>
-        
-          By <a href="https://www.leouieda.com">Leonardo Uieda</a><br/>
-        
-            &copy; Copyright 2021.<br/>
-          <div class="extra_footer">
-            <p>
+    <footer class="footer">
+  <p>
+    
+      By <a href="https://www.leouieda.com">Leonardo Uieda</a><br/>
+    
+        &copy; Copyright 2021.<br/>
+      <div class="extra_footer">
+        <p>
 Powered by <a href="https://jupyterbook.org">Jupyter Book</a>.
 Source code on GitHub: <a href="https://github.com/leouieda/pgcap">leouieda/pgcap</a>
 </p>
 
-          </div>
-      </p>
-    </div>
-  </footer>
+      </div>
+  </p>
+</footer>
 </main>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
 
-  
   </body>
 </html>

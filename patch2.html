@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>My teaching philosophy</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet" />
-  <link href="_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+  <link href="_static/css/theme.css" rel="stylesheet">
+  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -22,8 +22,8 @@
       
 
     
-    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="_static/sphinx-book-theme.e8f53015daec13862f6db5e763c41738.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
@@ -31,23 +31,25 @@
     <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.1c5a1a01449ed65a7b51.js">
+  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
 
-    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
-    <script src="_static/togglebutton.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
-    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
-    <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
-    <script >
-        const thebe_selector = ".thebe"
-        const thebe_selector_input = "pre"
-        const thebe_selector_output = ".output"
-    </script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="shortcut icon" href="_static/favicon.png"/>
     <link rel="index" title="Index" href="genindex.html" />
@@ -55,7 +57,10 @@
     <link rel="next" title="Pivotal learning moment: Authentic assessments" href="patch3.html" />
     <link rel="prev" title="Self-evaluation and reflection" href="patch1.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="en" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
     
   </head>
   <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
@@ -72,7 +77,11 @@
         <div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
-      <img src="_static/logo.svg" class="logo" alt="logo">
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="_static/logo.png" class="logo" alt="logo">
       
       
     </a>
@@ -84,13 +93,13 @@
         <ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="index.html">
-   PGCAP Patchwork ePortfolio
+   PGCAP Portfolio of Activity
   </a>
  </li>
 </ul>
-<p class="caption">
+<p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  Porfolio
+  Patchwork ePorfolio
  </span>
 </p>
 <ul class="current nav bd-sidenav">
@@ -139,8 +148,40 @@
    Conclusion
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="bibliography.html">
+   Bibliography
+  </a>
+ </li>
 </ul>
-<p class="caption">
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Research project
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="dissemination.html">
+   Project aims and strategy
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="report.html">
+   A review of peer-observation in higher education
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="reflection.html">
+   Project aims and strategy
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="rubric.html">
+   Marking rubric
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Reference
  </span>
@@ -154,11 +195,6 @@
  <li class="toctree-l1">
   <a class="reference internal" href="glossary.html">
    Glossary
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="bibliography.html">
-   Bibliography
   </a>
  </li>
  <li class="toctree-l1">
@@ -208,7 +244,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -244,7 +280,7 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
@@ -264,10 +300,33 @@
 </div>
     <div id="main-content" class="row">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>My teaching philosophy</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#script">
+   Script
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
               <div>
                 
-  <div class="section" id="my-teaching-philosophy">
+  <div class="tex2jax_ignore mathjax_ignore section" id="my-teaching-philosophy">
 <span id="teaching-philosophy"></span><h1>My teaching philosophy<a class="headerlink" href="#my-teaching-philosophy" title="Permalink to this headline">¶</a></h1>
 <blockquote>
 <div><p>This is a video about my teaching philosophy, how I view my role in higher
@@ -313,18 +372,18 @@ that students are able to go over it at their own pace, either independently or
 with guided instruction during a live session.</p>
 <p>I provide extra challenges and necessary scaffolding to account for variations
 in students prior knowledge
-<span id="id1">[<a class="reference internal" href="bibliography.html#id14">PRS03</a>]</span> <span id="id2">[<a class="reference internal" href="bibliography.html#id13">Kal07</a>]</span>.</p>
+<span id="id1">[<a class="reference internal" href="bibliography.html#id15" title="Fred Paas, Alexander Renkl, and John Sweller. Cognitive load theory and instructional design: recent developments. Educational Psychologist, 38(1):1–4, March 2003. URL: https://doi.org/10.1207/s15326985ep3801_1, doi:10.1207/s15326985ep3801_1.">Paas <em>et al.</em>, 2003</a>]</span> <span id="id2">[<a class="reference internal" href="bibliography.html#id14" title="Slava Kalyuga. Expertise reversal effect and its implications for learner-tailored instruction. Educational Psychology Review, 19(4):509–539, September 2007. doi:10.1007/s10648-007-9054-3.">Kalyuga, 2007</a>]</span>.</p>
 <p>As much as possible, I try to allow students to choose the topic of their
 assessments.</p>
 <p>I develop my lessons around coding and analysis of real data to provide
 students with authentic tasks and a chance to practice a wide range of skills.</p>
 <p>I build in time for peer-instruction to encourage students to interact and
-learn from each other <span id="id3">[<a class="reference internal" href="bibliography.html#id10">VRR+15</a>]</span>.</p>
+learn from each other <span id="id3">[<a class="reference internal" href="bibliography.html#id11" title="Trisha Vickrey, Kaitlyn Rosploch, Reihaneh Rahmanian, Matthew Pilarz, and Marilyne Stains. Research-based implementation of peer instruction: a literature review. CBE—Life Sciences Education, 14(1):es3, March 2015. doi:10.1187/cbe.14-11-0198.">Vickrey <em>et al.</em>, 2015</a>]</span>.</p>
 <p>This is doubly important for online learning, where engagement and social
 isolation are often problematic.</p>
 <p>A sense of agency, learning skills that are demonstrably useful, and learning
 along side their peers are some of the biggest motivators for adult learners
-<span id="id4">[<a class="reference internal" href="bibliography.html#id12">WG17</a>]</span>.</p>
+<span id="id4">[<a class="reference internal" href="bibliography.html#id13" title="Raymond J Wlodkowski and Margery B Ginsberg. Enhancing adult motivation to learn: A comprehensive guide for teaching all adults. John Wiley &amp; Sons, 2017.">Wlodkowski and Ginsberg, 2017</a>]</span>.</p>
 <p>I’m also a proponent of open-access and collective development of
 learning resources.</p>
 <p>Too often we find ourselves developing the same set of slides, practicals,
@@ -345,7 +404,7 @@ projects.</p>
 them more suitable for collaborative development.</p>
 <p>I hope to implement several of the research-based techniques outlined in
 Devenyi et al. (2018)
-<span id="id5">[<a class="reference internal" href="bibliography.html#id6">DEH+18</a>]</span>.</p>
+<span id="id5">[<a class="reference internal" href="bibliography.html#id7" title="Gabriel A. Devenyi, Rémi Emonet, Rayna M. Harris, Kate L. Hertweck, Damien Irving, Ian Milligan, and Greg Wilson. Ten simple rules for collaborative lesson development. PLOS Computational Biology, 14(3):e1005963, March 2018. doi:10.1371/journal.pcbi.1005963.">Devenyi <em>et al.</em>, 2018</a>]</span>.</p>
 <p>This will be a significant effort but I strongly believe that it is well worth
 doing.</p>
 <p>We all benefit from improving the commons.</p>
@@ -374,61 +433,49 @@ doing.</p>
 
               </div>
               
-        
             
-
-
-
-<div class='prev-next-bottom'>
-    
-    <div id="prev">
-        <a class="left-prev" href="patch1.html" title="previous page">
-            <i class="prevnext-label fas fa-angle-left"></i>
-            <div class="prevnext-info">
-                <p class="prevnext-label">previous</p>
-                <p class="prevnext-title">Self-evaluation and reflection</p>
-            </div>
-        </a>
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'> 
+    <a class='left-prev' id="prev-link" href="patch1.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Self-evaluation and reflection</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="patch3.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Pivotal learning moment: Authentic assessments</p>
     </div>
-     <div id="next">
-        <a class="right-next" href="patch3.html" title="next page">
-            <div class="prevnext-info">
-                <p class="prevnext-label">next</p>
-                <p class="prevnext-title">Pivotal learning moment: Authentic assessments</p>
-            </div>
-            <i class="prevnext-label fas fa-angle-right"></i>
-        </a>
-     </div>
-
+    <i class="fas fa-angle-right"></i>
+    </a>
 </div>
-        
+            
         </div>
     </div>
-    <footer class="footer mt-5 mt-md-0">
-    <div class="container">
-      <p>
-        
-          By <a href="https://www.leouieda.com">Leonardo Uieda</a><br/>
-        
-            &copy; Copyright 2021.<br/>
-          <div class="extra_footer">
-            <p>
+    <footer class="footer">
+  <p>
+    
+      By <a href="https://www.leouieda.com">Leonardo Uieda</a><br/>
+    
+        &copy; Copyright 2021.<br/>
+      <div class="extra_footer">
+        <p>
 Powered by <a href="https://jupyterbook.org">Jupyter Book</a>.
 Source code on GitHub: <a href="https://github.com/leouieda/pgcap">leouieda/pgcap</a>
 </p>
 
-          </div>
-      </p>
-    </div>
-  </footer>
+      </div>
+  </p>
+</footer>
 </main>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
 
-  
   </body>
 </html>
