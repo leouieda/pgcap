@@ -1,7 +1,7 @@
 format: jb-book
 root: index
 parts:
-  - caption: Porfolio
+  - caption: Patchwork ePorfolio
     chapters:
     - file: introduction
     - file: patch1
@@ -12,12 +12,15 @@ parts:
     - file: patch6
     - file: patch7
     - file: conclusion
+    - file: bibliography
   - caption: Research project
     chapters:
-    - file: vlog
+    - file: dissemination
+    - file: report
+    - file: reflection
+    - file: rubric
   - caption: Reference
     chapters:
     - file: ukpsf
     - file: glossary
-    - file: bibliography
     - file: credit

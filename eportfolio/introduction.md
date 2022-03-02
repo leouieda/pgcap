@@ -15,19 +15,3 @@ not having a good way to refer to these ideas when communicating with others.
 Plus, this was a great chance to play around with
 [JupyterBook](https://jupyterbook.org/), which I intend to use for all my
 teaching material as soon as I can find some time.
-
-## About me
-
-Since 2019, I have been working at the University of Liverpool as a Lecturer in
-Geophysics. I teach several different subjects, including computer programming,
-remote sensing, gravimetry, and geodynamics.
-Before coming to Liverpool, I spent 2.5 years as a postdoctoral fellow at the
-University of Hawai'i at Manoa. Before that, I worked as Assistant Professor at
-the Universidade do Estado do Rio de Janeiro for 3 years.
-
-I spend a large part of my time working on several open-source software
-projects.
-My approach to science is "open by default" and I make virtually everything I
-do publicly available under permissive open licences.
-
-You can find out more at my website: https://www.leouieda.com

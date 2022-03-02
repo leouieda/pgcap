@@ -1,11 +1,14 @@
 title: ""
 author: '<a href="https://www.leouieda.com">Leonardo Uieda</a>'
 copyright: "2021"
-logo: images/logo.svg
+logo: images/logo.png
 exclude_patterns: [_build, "**.ipynb_checkpoints"]
 only_build_toc_files: true
 execute:
   execute_notebooks: "auto"
+sphinx:
+  config:
+    bibtex_reference_style: author_year
 bibtex_bibfiles:
    - references.bib
 repository:

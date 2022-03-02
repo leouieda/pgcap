@@ -7,3 +7,4 @@ dependencies:
   - pip
   - jupyter-book
   - livereload
+  - make
