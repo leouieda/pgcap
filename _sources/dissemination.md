@@ -9,8 +9,8 @@ Content:
 * Plan how you will investigate this aspect of your academic practice to enhance learning teaching and the student experience: identify an appropriate educational research question and methodology, address ethical considerations and develop a plan to achieve this.
 * Explain how you will disseminate your findings: identify a relevant journal or other dissemination strategy, note the submission/dissemination guidelines and plan how you will achieve this.
 * Justify your investigative strategy.
-
-Outline of requirements of the proposed dissemination strategy, your rationale for choosing this strategy and confirmation you have met the relevant requirements.
+* Write a one page summary of the requirements of the proposed dissemination strategy, explain your rationale for choosing this strategy and confirm you have met the relevant requirements.
+* Outline of requirements of the proposed dissemination strategy, your rationale for choosing this strategy and confirmation you have met the relevant requirements
 
 ## Notes
 
