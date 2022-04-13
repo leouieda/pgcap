@@ -3,8 +3,10 @@
 These are some of my notes on the literature around peer-observation,
 particularly on its implementation within higher education.
 
-> **Note:** Contents here are largely direct quotes of the source material,
-> which are not subject to the CC-BY license.
+```{note}
+Contents here are largely direct quotes of the source material, which are not
+subject to the CC-BY license.
+```
 
 ## Peer Observation in Higher Education ‐ A Reflective Approach
 
@@ -53,4 +55,12 @@ Ideas:
 * **This is very different from PGCAP and SoES implementations**
 * **Could the PGCAP patch be restructured to this format with us observing more experience teachers?**
 
-Bla
+
+## Peer observation of teaching: The interaction between peer review and developmental models of practice
+
+> Yiend, J., Weller, S., & Kinchin, I. (2012). Peer observation of teaching:
+> The interaction between peer review and developmental models of practice. In
+> Journal of Further and Higher Education (Vol. 38, Issue 4, pp. 465–484).
+> Informa UK Limited. https://doi.org/10.1080/0309877x.2012.726967
+
+
