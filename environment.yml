@@ -3,8 +3,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python==3.9
+  - python==3.10
   - pip
-  - jupyter-book
-  - livereload
   - make
+  - livereload==2.6.*
+  - pip:
+    - -r requirements.txt
