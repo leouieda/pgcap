@@ -17,7 +17,7 @@
 >   dissemination.
 
 Example citation:
-{cite:t}`meh`
+{cite:t}`Cosh1998`
 
 ## Key message
 
