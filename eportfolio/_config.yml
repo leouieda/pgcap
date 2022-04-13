@@ -9,6 +9,8 @@ execute:
 sphinx:
   config:
     bibtex_reference_style: author_year
+    html_js_files:
+      - ["https://plausible.io/js/plausible.js", {"data-domain": "leouieda.com"}]
 bibtex_bibfiles:
    - references.bib
 repository:
