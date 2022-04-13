@@ -33,6 +33,14 @@ do publicly available under permissive open licences.
 
 You can find out more at my website: https://www.leouieda.com
 
+## License
+
+Except where otherwise noted, the original content in this website can be
+shared, remixed, and reused under the terms of the
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+<i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
+License.
+
 ## Contents
 
 ```{tableofcontents}

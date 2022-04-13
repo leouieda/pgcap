@@ -1,6 +1,6 @@
-title: ""
+title: "PGCAP Portfolio"
 author: '<a href="https://www.leouieda.com">Leonardo Uieda</a>'
-copyright: "2021"
+copyright: "2022"
 logo: images/logo.png
 exclude_patterns: [_build, "**.ipynb_checkpoints"]
 only_build_toc_files: true
@@ -21,8 +21,16 @@ html:
   use_issues_button: true
   use_edit_page_button: true
   extra_navbar: ""
+  baseurl: https://www.leouieda.com/pgcap/
   extra_footer: |
     <p>
-    Powered by <a href="https://jupyterbook.org">Jupyter Book</a>.
-    Source code on GitHub: <a href="https://github.com/leouieda/pgcap">leouieda/pgcap</a>
+    Except where otherwise noted, the original content is licensed
+    <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>
+    <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
+    <br>
+    Source code on GitHub:
+    <i class="fab fa-github"></i>
+    <a href="https://github.com/leouieda/pgcap">leouieda/pgcap</a>
+    <br>
+    Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
     </p>
