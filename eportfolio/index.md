@@ -3,7 +3,9 @@
 This is my portfolio of activity for the
 [University of Liverpool](https://www.liverpool.ac.uk) modules
 ADEV700 2020/21 and ADEV701 2021/22 of the Postgraduate Certificate Academic
-Practice (PGCAP).
+Practice ({term}`PGCAP`).
+This work is meant to demonstrate that I meet the [Descriptor 2](d2) of the
+{term}`UKPSF`.
 
 The portfolio is divided into two parts:
 
