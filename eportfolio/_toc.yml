@@ -15,6 +15,7 @@ parts:
     - file: bibliography
   - caption: Research project
     chapters:
+    - file: aims
     - file: dissemination
     - file: report
     - file: reflection

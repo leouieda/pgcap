@@ -1,24 +1,50 @@
-# Project aims and strategy
+# Dissemination strategy
 
-Content:
+Dissemination of my findings will be done through a page on this e-portfolio
+website (https://www.leouieda.com/pgcap).
 
-* Identification of appropriate focus for and approach to the investigation contextualised within the HE environment and supported by relevant theory and policy.
-* Explanation of how you will conduct your investigation.
-* Discussion of a suitable dissemination strategy.
-* Justification of your investigative strategy.
-* Plan how you will investigate this aspect of your academic practice to enhance learning teaching and the student experience: identify an appropriate educational research question and methodology, address ethical considerations and develop a plan to achieve this.
-* Explain how you will disseminate your findings: identify a relevant journal or other dissemination strategy, note the submission/dissemination guidelines and plan how you will achieve this.
-* Justify your investigative strategy.
-* Write a one page summary of the requirements of the proposed dissemination strategy, explain your rationale for choosing this strategy and confirm you have met the relevant requirements.
-* Outline of requirements of the proposed dissemination strategy, your rationale for choosing this strategy and confirmation you have met the relevant requirements
+Requirements:
 
-## Notes
+* Open-access link to the report on a website.
+* Written in an accessible language.
+* Provide a short summary of key findings and recommendations for those
+  skimming the content.
+* Include links to the relevant literature for those wishing to dig deeper.
 
-* Idea: Investigate the current state of CPD using Peer observation.
-* Literature review of the past few years (not systematic).
-* Also look at "Japanese teaching training" and its application to HE.
-* Disseminate:
-  * Preprint (find a server for education)
-  * Blog and circulate to the [NAGT](https://nagt.org/) and other mailing lists.
-  * Digital format (this page) as a good way to share widely and within the school for recommendation
-  * [Journal of Geoscience Education](https://www.tandfonline.com/toc/ujge20/current) as commentary or review.
+My main goals for this project are to gain more understanding of the topic and
+to inform practice within my institution.
+Therefore, the relatively more informal and accessible format is more
+appropriate for dissemination than a traditional journal article.
+Additionally, the findings presented here may be of use to my peers in other
+institutions.
+Having my report on an open website will increase the ease of dissemination
+(all I need to provide is a link to this website) and is more suitable for
+sharing on social media.
+
+A report on my findings will be written in the format of an academic blog
+article (reminiscent of a journal article) within the website.
+To increase the ease of dissemination, key takeaways and recommendations will
+be summarized in an easily digestible form at the start in the style common to
+blogs and social media.
+The writing style will also be more informal than a traditional journal article
+to make it more suitable for an audience that may be less familiar with
+teaching and learning scholarship.
+
+To increase visibility, I will also:
+
+1. Create a thread on Twitter and LinkedIn with the key takeaways and a link to
+   this website.
+1. Share a link to my report and a short summary by email to relevant people at
+   the School of Environmental Sciences and The Academy.
+
+Ideally, this report will be reused and adapted to other institutions and
+updated over time as more studies are conducted.
+In the spirit of openness, the source of this website and the materials
+are all distributed under a
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+license.
+This allows anyone to freely reuse, remix, and share the contents under the
+sole condition that they acknowledge the original source (this website).
+
+The report presented here clearly meets the relevant requirements set out
+above.
