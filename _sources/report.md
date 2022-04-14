@@ -1,36 +1,71 @@
 # A review of peer-observation in higher education
 
-> This task sits within the context of your academic practice at the University
-> of Liverpool and is subject to the constraints of what can be achieved within a
-> 20 credit Level 7 module. You are expected to draw on your knowledge and
-> understanding of the scholarship and practice of learning and teaching in
-> higher education, informed by your successful completion of ADEV700 or ADEV710,
-> and follow through with the planned investigation identified in your
-> Vlog/poster assessment. The final report enables you to disseminate the
-> findings of your investigation in a format that meets the assessment
-> requirements and may also enable you to disseminate your findings more widely.
->
-> * A final report, adhering to the requirements of your chosen dissemination
->   strategy.
-> * Complete the investigation you outlined in your Vlog/poster and produce a
->   report following the requirements linked to your chosen method of
->   dissemination.
+**Leonardo Uieda** --
+Department of Earth, Ocean and Ecological Sciences, University of Liverpool, UK
 
-Example citation:
-{cite:t}`Cosh1998`
+Abstract
 
-## Key message
+
+
+## Key take away and recommendations
 
 > Outline the most important points of this in an easily digestible form.
-
-## Recommendations
-
 > Summarize any recommendations for the implementation of peer-observation in
 > higher education.
 
+
 ## Introduction
 
+Define peer observation.
+
+Why I'm doing this review.
+
+Looking to inform practice at the School of Environmental Sciences of the
+University of Liverpool.
+
+Also practices during the PGCAP peer observation patches.
+
+
+## Implementation of peer observation in higher education
+
+Modes of implementation and how they differ.
+
+Advantages and disadvantages of each.
+
+What has been tried before and findings about each mode.
+
+Example citation:
+{cite:t}`Cosh1998`
+{cite:p}`Yiend2012`
+{cite:p}`Yiend2012,Fletcher2018`
+
+
+## Reflection: Peer-observation in the School of Environmental Sciences
+
+Analysis of how our current implementation relates to the modes and results
+presented earlier.
+
+
+## Reflection: Peer-observation in the PGCAP
+
+Analysis of how our current implementation relates to the modes and results
+presented earlier.
+
+Possible problems and solutions.
+
+
 ## Summary
+
+Summarise why I'm doing this, how it's done in Liverpool, pros and cons.
+
+
+## Recommendations for changes to current practice
+
+Given what I've learned:
+
+* What works in current practice given literature
+* What could be changed to be more reflective of literature recommendations
+
 
 ## Bibliography
 
