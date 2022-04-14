@@ -1,4 +1,4 @@
-# Notes
+# Notes on bibliography
 
 These are some of my notes on the literature around peer-observation,
 particularly on its implementation within higher education.

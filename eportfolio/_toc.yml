@@ -19,7 +19,7 @@ parts:
     - file: report
     - file: reflection
     - file: notes
-    - file: rubric
+    - file: assignment
   - caption: Reference
     chapters:
     - file: ukpsf
