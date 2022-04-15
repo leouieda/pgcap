@@ -130,6 +130,8 @@ practice of the observed increased when they were first exposed to an expert
 educator.
 {cite:t}`Lygo-Baker2007` also concludes that the participation of a
 developmental observer is important for facilitating reflective practice.
+Furthermore, an expert educator can help provide the necessary scaffolding for
+academic staff to discuss pedagogical practice {cite:p}`Thomson2015`.
 
 ## Challenges
 
@@ -187,42 +189,57 @@ model**:
 
 ## Practical implementation
 
+Most studies that I have found use slight variations of the following
+implementation
+{cite:p}`HammersleyFletcher2004`:
 
-From Cosh:
+1. Peers are identified and paired for observation (sometimes trios are used).
+1. A pre-observation meeting is help where the peers establish particular areas
+   of focus, expectations, and logistics.
+1. A post-observation meeting is help where the observers provide feedback and
+   the observed reflects on the feedback. Areas for improvement, concerns, and
+   examples of good practice are usually identified as well.
 
-Implementation:
+{cite:t}`Cosh1998` identified the following principles for successful practice
+of peer-observation:
 
-    Must be formalized: “It is essential that the procedure should be formalized in some way to ensure that it does not die through inertia and the pressures of workload.”
+* **Minimal workload:** "the procedure should be formalized in some way to
+  ensure that it does not die through inertia and the pressures of workload" --
+  {cite:t}`Cosh1998`
+* **Agency:** Participants should be given agency over who should be observed,
+  methods, focus, etc.
+* **Feedback is key:** Proper feedback must be provided after the observation
+  through **short** forms with as little structure and box-ticking as possible.
 
-    People can still feel judged. “The participants should, therefore, be reassured and consulted, and decide jointly on such factors as who should be observed, how often, what protocol should be followed, what the focus should be, and what form feedback should take”
+It is also important that the process is dynamic and observations are rotated
+frequently to avoid the process becoming repetitive
+{cite:p}`HammersleyFletcher2004`.
 
-    Feedback is key. “in order for insights to be clarified and for good practice to be shared and disseminated.”
+Under my proposed blended {term}`developmental`-{term}`reflective` model:
 
-    Format: Seminars, workshops, discussions, forms. “as along as the emphasis is always on what the observer has learnt or decided to think about.”
+* The first developmental observation would serve as training in critical
+  feedback and reflective practice for the observed, with good practice
+  modelled by the expert educator.
+* The developmental component needs not happen with as much frequency as the
+  peer-to-peer reflective component. Perhaps only once every few academic years.
+* The feedback form would follow the suggestion of {cite:t}`Cosh1998` and
+  include: lessons learned from observing, further action planned for the
+  observer, topics that may be of broader interest. The feedback form is
+  **confidential** and only the examples of good-practice are shared more
+  widely.
+* Peers are self-assigned with facilitation from the parties running the
+  exercise.
+* Peer-to-peer observation should be done both within the same discipline and
+  across disciplines. There is evidence that "disciplinary focus [...]
+  sometimes hinders deep reflection about teaching practices"
+  {cite:p}`Torres2017`. Having some cross-disciplinary pairings can help shift
+  the focus away from the content and towards the pedagogy and student learning
+  {cite:p}`OKeeffe2021`.
 
-Sample observation form asks:
-
-    Lessons learned from observing
-
-    Further action planned by observer
-
-    Topics that may be of broader interest
-
-
-"Most follow a design which involves a pre-
-observation meeting, the actual observation and a post-observation session"
-{cite:p}`HammersleyFletcher2004`
-
-. It is important that PoT does not
-stagnate by becoming repetitive
-
-Staff are often concerned with receiving negative feedback
-{cite:p}`HammersleyFletcher2004`
-
-"Thus, it is possible that if less experienced staff acted as observers of more
-experienced staff they would gain considerably from seeing good practice in
-operation"
-{cite:p}`HammersleyFletcher2004`
+This {term}`developmental`-{term}`reflective` blended approach can be
+particularly useful when less experience staff are assigned as observers of
+more experienced educators who have undergone the peer-observation process in
+the past {cite:p}`HammersleyFletcher2004`.
 
 ## Reflection: Peer-observation in the School of Environmental Sciences
 
