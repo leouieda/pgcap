@@ -125,3 +125,61 @@ Journal of Further and Higher Education (Vol. 38, Issue 4, pp. 465–484).
 Informa UK Limited. https://doi.org/10.1080/0309877x.2012.726967
 :::
 
+Study of a single participant going through a few different processes.
+
+1. Peer-observed (collaborative model)
+1. Observed by an expert educator (developmental)
+
+Main finding was that the feedback quality and amount of reflective practice
+by the participant improved after doing the exercise with the educator.
+
+* They learned how to do reflective practice and critical feedback from the
+  expert.
+* Purely peer-observation leads to mostly positive feedback with little
+  critique and reflection.
+* Reflective practice is difficult and won't be done properly if not taught
+  (and apparently shown).
+
+Proposes a hybrid approach, with some expert educator involvement to model good
+reflective practice and critical feedback and peer observations to scale and
+provide domain knowledge.
+
+Interesting references there:
+
+* "there remain doubts about the extent to which participation in formative
+  teaching observation can contribute to the development of critical reflection
+  and legitimate enhancement of practice ([Hatzipanagos and Lygo-Baker, 2006](https://doi.org/10.1080/03098770600965425))"
+* "many staff are ill-equipped, without further training, to evaluate and
+  provide feedback on the effectiveness of others’ teaching" (Gosling, 2009)"
+* "One solution is to use a hybrid teaching observation model that combines
+  feed- back from both an expert observer and disciplinary peer observer, but
+  whilst this may provide a mechanism for developing a culture of reflection on
+  teaching ([Atkinson and Bolt, 2010](https://scholarworks.iu.edu/journals/index.php/josotl/article/view/1798/1795))"
+* Three domains of purpose of PO [Hammersley-Fletcher and Orsmond (2004)](https://doi.org/10.1080/0307507042000236380): of
+  ‘accountability’, ‘personal reflection’ and ‘dissemination of best practice’.
+* "this series of observations appeared to identify more of the weaknesses (cf.
+  [Hammersley-Fletcher and Orsmond 2004; 2005](https://doi.org/10.1080/03075070500043358)). There was an almost complete
+  lack of critical reflection and an exclusive focus on positive reflection,
+  producing little or no opportunity to change or develop teaching practice as
+  a result of the exercise."
+* "It has been widely suggested that peers are often motivated to say only good
+  things about their colleagues and tend to avoid even constructive criticism
+  ([Shortland 2010](https://doi.org/10.1080/14703297.2010.498181)). The present data are certainly in line with this."
+* "The developmental observation was therefore the most effective by far in
+  achieving the goal of providing feedback to prompt self-regulative and
+  reflective practice."
+* "Thus reflective practice in teaching appears to be a skill that needs to be
+  taught to its would-be practitioners ([Aronson 2010](https://doi.org/10.3109/0142159X.2010.507714))"
+* "three of the peer review observations identified confusion over the purpose
+  of observation and lack of awareness of the meaning or importance of
+  reflective practice. This confusion was effectively dissipated following the
+  lecturer’s participation in the same exercise using a developmental model"
+* "If the goal of teaching observation is to prompt and enhance reflective
+  practice, this suggests an important role for developmental observers in
+  facilitating this, supporting the conclusions of
+  [Lygo-Baker and Hatzipanagos (2007)](https://web.p.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=14479494&AN=28652157&h=Wm%2fPT7%2fjeWySJaRCZQwgAeexzwV6pgypJKFDDd3OFE1ZnkS8%2fBriaY9dy42y8uPREdGTiBSR6XsXhyYx1xJYHw%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d14479494%26AN%3d28652157)".
+
+**Apparently, all of this only works with an accompanying good quality training
+on reflective practice.** While we practice this in PGCAP, we were never shown
+examples of good practice.
+
