@@ -13,3 +13,14 @@
       margin-bottom: 2rem;
     }
 }
+
+/* Style tweaks */
+
+blockquote.epigraph {
+  font-size: inherit;
+  border-left: 4px solid #ccc;
+}
+
+p.attribution {
+  text-align: right;
+}
