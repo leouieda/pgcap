@@ -1,0 +1,7 @@
+/* Disable the right toc when printing to PDF */
+@media print {
+    div#jb-print-toc, div#jb-print-toc > nav > ul {
+        visibility: hidden !important;
+        height: 0;
+    }
+}
