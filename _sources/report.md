@@ -186,7 +186,7 @@ for the **observer** that have been reported:
   delivered by the observed and their own {cite:p}`Tenenberg2014`.
 
 :::{admonition} Proposal
-:class: note
+:class: tip
 
 To me, all of these are strong arguments in favour of a **different blended
 model**:
@@ -283,7 +283,7 @@ peer-observation exercises as summative assessments
 Both are carried out in a mix of the  {term}`evaluation` and
 {term}`collaborative` model, with the observer being an academic peer but
 simultaneously having a large focus on the evaluation of the quality of
-teaching as well as areas of improvement.
+teaching as well as areas of improvement and examples of good practice.
 Staff participating in the module as students are only observed and do not
 carry out observations themselves (though the option of being an observer for
 another student was given).
@@ -300,24 +300,52 @@ In light of the literature review carried out above, I would like to make
 recommendations for those implementing peer-observation:
 
 :::{admonition} General
-:class: tip
+:class: note
 
-bla
+* **Do not use for peer-observation for evaluation** of staff (e.g., for
+  promotion, probation, tenure). There seems to be consensus in the literature
+  about this point.
+* **Blended models** of peer-observation seem to work best. It is common for the
+  {term}`developmental` and {term}`collaborative` models to be combined. I would
+  argue in favour of using the {term}`reflective` model instead of the {term}`collaborative`.
+* Focus on the **self-development of the observer** (as opposed to the
+  judgement of the observed) to decrease anxiety and hesitation towards the
+  practice, as well as negative effects associated with power imbalance and
+  politics between peers.
 :::
 
 The following are specific recommendations that I believe could improve the
-practices currently implemented in parts of the University of Liverpool:
+practices currently implemented in parts of the University of Liverpool.
+**My goal with these is to offer critical feedback and areas of improvement**
+informed by the current literature on peer-observation.
 
 :::{admonition} School of Environmental Sciences
-:class: tip
+:class: note
 
-bla
+* Continue with the emphasis on self-development instead of evaluation.
+* Shift the focus towards the development of the observer, which will also
+  serve as an on-boarding tool for new teaching staff.
+* Encourage peer-to-peer observation across the School disciplines to foster
+  collegiality and avoid focusing solely on the content of the module.
+* Include as part of the training at least one observation by an expert
+  educator with experience in reflective practice.
 :::
 
 :::{admonition} PGCAP
-:class: tip
+:class: note
 
-bla
+* Continue allowing participants to self-assign peers for the observations.
+* Strongly encourage or require being an observer for another participant.
+* Include as part of the training at least one observation by an expert
+  educator with experience in reflective practice.
+* Include the observation by the participant of one experienced educator in the
+  participants own domain, ideally someone who has been through the PGCAP
+  program.
+* Remove aspects of the observation form that are related purely to the
+  judgement of the quality of teaching practice by the observer. Replace them
+  with more open-ended areas of improvement (when conducted by an expert
+  educator) or reflections on self-improvement (when conducted by the
+  participant).
 :::
 
 
