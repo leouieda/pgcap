@@ -7,7 +7,7 @@ Department of Earth, Ocean and Ecological Sciences, University of Liverpool, UK
 :class: seealso
 
 * When done right, peer-observation of teaching can be a valuable tool to
-  promote **discussion and collegiality** as well as **disseminated good
+  promote **discussion and collegiality** as well as **disseminate good
   pedagogic practices**.
 * There seems to be consensus in the literature that peer-observation should
   **not be used for evaluation** of staff (e.g., for promotion, probation,
@@ -205,9 +205,9 @@ implementation
 {cite:p}`HammersleyFletcher2004`:
 
 1. Peers are identified and paired for observation (sometimes trios are used).
-1. A pre-observation meeting is help where the peers establish particular areas
+1. A pre-observation meeting is held where the peers establish particular areas
    of focus, expectations, and logistics.
-1. A post-observation meeting is help where the observers provide feedback and
+1. A post-observation meeting is held where the observers provide feedback and
    the observed reflects on the feedback. Areas for improvement, concerns, and
    examples of good practice are usually identified as well.
 
