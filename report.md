@@ -16,14 +16,30 @@ Abstract
 
 ## Introduction
 
-Define peer observation.
+Peer-observation of teaching is a practice in which one or more staff observe
+the teaching of another and provide feedback for reflection and discussion.
+The practice of peer-observation can vary both in format and in overall goals
+{cite:p}`Cosh1998`.
+However, it is still widely used as a form of
+professional development for teaching staff both within and, more recently,
+across different higher education institutions {cite:p}`OKeeffe2021`.
 
-Why I'm doing this review.
+There are a large number of studies looking into different models of
+peer-observation, the effectiveness of their implementation strategies in
+various contexts, and the challenges faced during implementation
+(see {cite:t}`Fletcher2018` for an overview).
+While enlightening, this abundance can make it challenging for individuals who
+desire to adopt peer-observation within their institutions to figure out which
+model to use and how to best conduct the practice.
 
-Looking to inform practice at the School of Environmental Sciences of the
-University of Liverpool.
-
-Also practices during the PGCAP peer observation patches.
+This review is my attempt to synthesise some of the best practices found in the
+teaching and learning literature around peer-observation in a higher education
+setting.
+I will offer an overview of the most common models, the evidence in favour or
+against them, and the key recommendations distilled from them.
+My hope is that this investigation will inform the current practice of
+peer-observation within the {term}`PGCAP` program and the recent adoption
+within the School of Environmental Sciences of the University of Liverpool, UK.
 
 
 ## Implementation of peer observation in higher education
