@@ -2,7 +2,7 @@
 
 Through the {term}`PGCAP` programme, I have been able to supplement my existing
 skill set in order to fulfil the characteristics outlined in [Descriptor 2](d2)
-of the {term}`UKPSF`:
+of the {term}`UKPSF`.
 
 **Successful engagement across all five Areas of Activity:**
 I have designed a new module in the Geophysics programme, made significant
@@ -55,7 +55,7 @@ Not only does my research inform my teaching, but also my current teaching
 **Successful engagement in continuing professional development in relation to
 teaching, learning, assessment and, where appropriate, related professional
 practices:**
-I have undergone the PGCAP program, have volunteered for the School of
-Environmental Sciences' peer-observation program, seek out training from
-external domain-specific sources, and continue to experiment with new methods
+I have undergone the PGCAP program and have volunteered for the School of
+Environmental Sciences' peer-observation program. I continuously seek out
+training from external domain-specific sources and experiment with new methods
 for engaging students.
