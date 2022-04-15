@@ -19,7 +19,6 @@ parts:
     - file: dissemination
     - file: report
     - file: reflection
-    - file: notes
     - file: assignment
   - caption: Reference
     chapters:
