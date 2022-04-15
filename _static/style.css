@@ -1,7 +1,15 @@
 /* Disable the right toc when printing to PDF */
 @media print {
+    main.bd-content div#print-main-content {
+      display: none;
+      padding-top: 0;
+    }
     div#jb-print-toc, div#jb-print-toc > nav > ul {
         visibility: hidden !important;
-        height: 0;
+        margin-bottom: 0;
+    }
+    div#jb-print-docs-body > h1 {
+      margin-top: 0;
+      margin-bottom: 2rem;
     }
 }
