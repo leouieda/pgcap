@@ -3,13 +3,23 @@
 **Leonardo Uieda** --
 Department of Earth, Ocean and Ecological Sciences, University of Liverpool, UK
 
+:::{admonition} Key points
+:class: seealso
 
-## Key takeaways and recommendations
+* When done right, peer-observation of teaching can be a valuable tool to
+  promote **discussion and collegiality** as well as **disseminated good
+  pedagogic practices**.
+* There seems to be consensus in the literature that peer-observation should
+  **not be used for evaluation** of staff (e.g., for promotion, probation,
+  tenure).
+* **Blended models** of peer-observation seem to work best.
+* Care must be taken to ensure that the process does not become stale,
+  repetitive, or seen as a chore and time-sink.
+* Focusing on the **self-development of the observer** (as opposed to the
+  judgement of the observed) can be a tool for dispelling feelings of anxiety
+  and hesitation towards the practice.
 
-> Outline the most important points of this in an easily digestible form.
-> Summarize any recommendations for the implementation of peer-observation in
-> higher education.
-
+:::
 
 ## Introduction
 
@@ -176,7 +186,7 @@ for the **observer** that have been reported:
   delivered by the observed and their own {cite:p}`Tenenberg2014`.
 
 :::{admonition} Proposal
-:class: tip
+:class: note
 
 To me, all of these are strong arguments in favour of a **different blended
 model**:
@@ -259,21 +269,56 @@ serving as both observers and observed.
 The feedback form is focused on highlighting good practice of the observed and
 pin-pointing any issues that may have arisen.
 
+The training that is offered to staff involves relay of information about the
+process, what to observe, how to conduct the pre- and post-observation
+discussions, etc.
+However, there is no hands-on practice or demonstration of how to conduct
+the observation and reflective practice effectively by an expert.
 
-## PGCAP
+### PGCAP
 
-Analysis of how our current implementation relates to the modes and results
-presented earlier.
+The first module of the PGCAP (ADEV700 in my case), includes two
+peer-observation exercises as summative assessments
+(see [my reflections on these observations](observations)).
+Both are carried out in a mix of the  {term}`evaluation` and
+{term}`collaborative` model, with the observer being an academic peer but
+simultaneously having a large focus on the evaluation of the quality of
+teaching as well as areas of improvement.
+Staff participating in the module as students are only observed and do not
+carry out observations themselves (though the option of being an observer for
+another student was given).
 
-Possible problems and solutions.
+The training received during the module relays information about the format,
+how to conduct reflective practice, and details of how to carry out the pre-
+and post-observation discussions.
+Like the School of Environmental Sciences, there is also no hands-on training
+or demonstration of good practice by an expert observer.
 
+## Recommendations
 
-## Recommendations for changes to current practice
+In light of the literature review carried out above, I would like to make
+recommendations for those implementing peer-observation:
 
-Given what I've learned:
+:::{admonition} General
+:class: tip
 
-* What works in current practice given literature
-* What could be changed to be more reflective of literature recommendations
+bla
+:::
+
+The following are specific recommendations that I believe could improve the
+practices currently implemented in parts of the University of Liverpool:
+
+:::{admonition} School of Environmental Sciences
+:class: tip
+
+bla
+:::
+
+:::{admonition} PGCAP
+:class: tip
+
+bla
+:::
 
 
 ## Bibliography
