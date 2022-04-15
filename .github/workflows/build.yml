@@ -31,6 +31,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@8a36f3edfc5d1cbae6b09e6f5a7d7b19e5b7a73b
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./eportfolio/_build/html
+          publish_dir: _build/html
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'

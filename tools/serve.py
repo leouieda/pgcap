@@ -7,9 +7,9 @@ from livereload import Server, shell
 
 server = Server()
 files = [
-    "eportfolio/*.md",
-    "eportfolio/*.yml",
-    "eportfolio/images/*",
+    "*.md",
+    "*.yml",
+    "images/*",
 ]
 for filename in files:
     server.watch(filename, "make build")
@@ -21,7 +21,7 @@ port = 8008
 for i in range(max_attempts):
     try:
         server.serve(
-            root="eportfolio/_build/html",
+            root="_build/html",
             port=port,
             host="localhost",
             open_url_delay=1,

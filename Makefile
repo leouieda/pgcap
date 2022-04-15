@@ -1,11 +1,10 @@
 all: build
 
-
 build:
-	jupyter-book build -n -W eportfolio/
+	jupyter-book build -n -W .
 
 serve: build
 	python tools/serve.py
 
 clean:
-	rm -rf eportfolio/_build/*
+	rm -rf _build/
