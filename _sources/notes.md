@@ -183,3 +183,56 @@ Interesting references there:
 on reflective practice.** While we practice this in PGCAP, we were never shown
 examples of good practice.
 
+## O’Keeffe et al. (2021) -- "Exploring the role of peer observation of teaching in facilitating cross-institutional professional conversations about teaching and learning"
+
+:::{admonition} Reference
+:class: seealso
+
+Muireann O’Keeffe, Martina Crehan, Morag Munro, Anna Logan, Ann Marie
+Farrell, Eric Clarke, Michelle Flood, Monica Ward, Tatiana Andreeva, Chris Van Egeraat, Frances
+Heaney, Declan Curran & Eric Clinton (2021) Exploring the role of peer observation of teaching in
+facilitating cross-institutional professional conversations about teaching and learning, International
+Journal for Academic Development, 26:3, 266-278, DOI: 10.1080/1360144X.2021.1954524
+:::
+
+Explored cross-institutional peer-observation, not only within in a single
+University.
+
+Not exactly what we have at the School but could inform and suggest that mixing
+disciplines is a good thing.
+
+On purposes of PO, "Gosling (2002) identified three possible purposes for PoT:
+An Evaluation model, a Development model, and a Peer review model." beyond the
+other sources we have already.
+
+On benefits to observer:
+"Observers report benefits derived from
+learning about new teaching and learning strategies and being prompted to test these
+in their own practice ([Hendry & Oliver,
+2012](https://doi.org/10.53761/1.9.1.7)), and from comparing and contrasting
+the observees’ context with their own ([Tenenberg,
+2016](https://doi.org/10.1080/03075079.2014.950954)). Through observing others
+practice,
+observers learn about and reflect on their own practice ([Sullivan et al., 2012](https://doi.org/10.1186/1472-6920-12-26)). More
+generally, such approaches to PoT can contribute to the development of collegiality
+among colleagues, with teaching seen as a topic for communal discourse ([Whipp & Pengelley, 2017](http://dx.doi.org/10.1108/IJMCE-07-2016-0059))."
+Seems to be more arguments in favour of the reflective approach of Cosh 1998.
+
+Arguments fro cross-discipline observation:
+'[Torres et al. (2017, p. 824)](https://doi.org/10.1080/13562517.2017.1301907) “it can be precisely this disciplinary focus that
+sometimes hinders deep reflection about teaching practices’’. Cross-disciplinary PoT
+pairings can move participants away from a primary focus on the disciplinary context
+and on the material being taught, and towards a focus on the teaching approaches
+employed and on the students’ engagement with them. Furthermore, cross-disciplinary
+PoT can facilitate exposure to pedagogical approaches outside those traditionally
+employed within one’s home discipline and can allow for a more collaborative and
+equitable relationship in the PoT pairing (Torres et al., 2017).'
+
+Also "the focus was on pedagogy rather than the curriculum".
+
+On the role of the expert observer (developmental):
+"Academic developers encourage and scaffold conversations about practice.
+Firstly, they can initiate informal conversations between academics about
+teaching, and secondly, they reinforce relations between the learning from
+every day, informal, department-based conversations and the ideas from formally
+structured academic development programs ([Thomson, 2015](https://doi.org/10.1080/1360144X.2015.1028066))."
