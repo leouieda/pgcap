@@ -133,6 +133,7 @@ developmental observer is important for facilitating reflective practice.
 Furthermore, an expert educator can help provide the necessary scaffolding for
 academic staff to discuss pedagogical practice {cite:p}`Thomson2015`.
 
+
 ## Challenges
 
 Implementation of a blended developmental-collaborative model are not without
@@ -241,23 +242,30 @@ particularly useful when less experience staff are assigned as observers of
 more experienced educators who have undergone the peer-observation process in
 the past {cite:p}`HammersleyFletcher2004`.
 
-## Reflection: Peer-observation in the School of Environmental Sciences
 
-Analysis of how our current implementation relates to the modes and results
-presented earlier.
+## Peer-observation at the University of Liverpool
+
+The following section is a reflection on how the implementations of
+peer-observation within the School of Environmental Sciences and the
+{term}`PGCAP` program relate to the content laid out above.
+
+### School of Environmental Sciences
+
+As of 2022, the School of Environmental Sciences started the establishment of a
+peer-observation program with the goal of improving pedagogy and disseminating
+examples of good practice across the many disciplines covered by the School.
+The program is based on the {term}`collaborative` model, with academic staff
+serving as both observers and observed.
+The feedback form is focused on highlighting good practice of the observed and
+pin-pointing any issues that may have arisen.
 
 
-## Reflection: Peer-observation in the PGCAP
+## PGCAP
 
 Analysis of how our current implementation relates to the modes and results
 presented earlier.
 
 Possible problems and solutions.
-
-
-## Summary
-
-Summarise why I'm doing this, how it's done in Liverpool, pros and cons.
 
 
 ## Recommendations for changes to current practice
