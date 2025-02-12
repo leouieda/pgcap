@@ -8,6 +8,8 @@ Practice (PGCAP).
 The website is built with [Jupyter Book](https://jupyterbook.org/) and
 can be viewed at: https://www.leouieda.com/pgcap
 
+A PDF version of the website is archived and can be cited at: https://doi.org/10.6084/m9.figshare.28401473
+
 ## License
 
 Except where otherwise noted, the original content in this repository can be
