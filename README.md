@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to Codeberg and will no longer be updated: https://codeberg.org/leouieda/pgcap
+
 # PGCAP Portfolio of Activity
 
 This is my portfolio of activity for the
